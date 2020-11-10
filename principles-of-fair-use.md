@@ -12,3 +12,4 @@
     * Groundwater contributions are the cost of intellectual capital being re-invested in a decentralized and common talent infrastructure.  Governance is highly delegated in a decentralized structure.  
 * Project contributions take many forms and should be valued as such
     * Open source contributions are not made in a single way or through a specific channel.  The entire surface area of open source contributions should be recognized and taken into account when value is returned to projects.
+    * Companies that employ open source contributors should also be able to participate in any returns that come to the projects they sponsor.
