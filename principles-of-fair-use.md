@@ -2,7 +2,7 @@
 
 * Code is free, communities are not 
     * Time is equivalent to money and it is not fair to expect free maintenance.
-* Open source software is a capital contribution, the communities that create it deserve a return
+* Open source software is a capital contribution, the communities that create it deserve part of any return it produces
     * Open source is not strictly aesthetic but also functional.  It’s function is to produce business value.  This business value is borrowed from the community and should be shared. 
 * Donations are great but equity is better
     * Communities contribute to company profits and market capitalization.  The value of these contributions should be directly correlated with the value of a company. 
